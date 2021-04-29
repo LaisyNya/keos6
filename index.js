@@ -1081,8 +1081,8 @@ async function starts() {
 							})
 					} else {
 						reply('Acto fotográfico')
-					}*/
-					break
+					}
+					break*/
 
                       case 'bugreport':
                      const bug = body.slice(5)
