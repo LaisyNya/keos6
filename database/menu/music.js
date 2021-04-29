@@ -14,7 +14,6 @@ const music = (prefix, ownerBot, botName) => {
   └─ ❏ ${prefix}bugreport
 ◪ *MUSIC*
   │
-  ├─ ❏ ${prefix}play
   ├─ ❏ ${prefix}joox
   ├─ ❏ ${prefix}lirik
   └─ ❏ ${prefix}chord`
